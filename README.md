@@ -1,4 +1,4 @@
-# Desenvolvimento para Dispositivos móveis 
+<h1 align="center">Desenvolvimento para Dispositivos móveis</h1>
 
 ## Métodos Avaliativos 
 ##### [Diário de Aula](https://docs.google.com/spreadsheets/d/15S13zfmqAGGMFBtSC4jBQjm9qa6l00PePm_KsR_7hdc/edit#gid=0), realizado em sala de aula, semanalmente;
