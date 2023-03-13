@@ -2,7 +2,7 @@
 
 ## Métodos Avaliativos 
 ##### [Diário de Aula](https://docs.google.com/spreadsheets/d/15S13zfmqAGGMFBtSC4jBQjm9qa6l00PePm_KsR_7hdc/edit#gid=0), realizado em sala de aula, semanalmente;
-* 📆 03/03 [aula_04] funções em dart(https://github.com/MarcioJCarvalho/DDM/blob/main/aula_04/funcoes.dart)
+* 📆 03/03 [aula 04](https://github.com/MarcioJCarvalho/DDM/blob/main/aula_04/funcoes.dart) funções em dart
 ##### Avaliação em sala, realizada no final do trimestre.
 
 ## Sábados Letivos
