@@ -10,7 +10,7 @@
 * 📆 30/09
 
 ## Contato Professor da Disciplina 
-##### 👨‍🏫 Nome: Hélio Toishiro Kamakawa
+##### 👨‍🏫 Nome: Hélio Toshio Kamakawa
 ##### 📧 helio.kamakawa@ifpr.edu.br
 ##### 📱 ZAP +55 (44) 8447-2831
 ##### ⚓ https://github.com/heliokamakawa
