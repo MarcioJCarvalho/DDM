@@ -1,8 +1,9 @@
 # Desenvolvimento para Dispositivos móveis 
 
 ## Métodos Avaliativos 
-* [Diário de Aula](https://docs.google.com/spreadsheets/d/15S13zfmqAGGMFBtSC4jBQjm9qa6l00PePm_KsR_7hdc/edit#gid=0), realizado em sala de aula, semanalmente;
-* Avaliação em sala, realizada no final do trimestre.
+##### [Diário de Aula](https://docs.google.com/spreadsheets/d/15S13zfmqAGGMFBtSC4jBQjm9qa6l00PePm_KsR_7hdc/edit#gid=0), realizado em sala de aula, semanalmente;
+* 📆 03/03 [aula_04] funções em dart(https://github.com/MarcioJCarvalho/DDM/blob/main/aula_04/funcoes.dart)
+##### Avaliação em sala, realizada no final do trimestre.
 
 ## Sábados Letivos
 * 📆 ~25/02~
