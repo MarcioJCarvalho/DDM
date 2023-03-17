@@ -44,7 +44,24 @@ void main(List<String> arguments){
   /*
   exercício 02 
   - Altere uma das FNs para utilizar Arrow Function
-  
+  */
+
+  print('${
+      Cidade(
+      nome: 'Paranavaí',
+      estado: Estado(
+        nome: 'Paraná',
+        sigla: 'PR',
+        calcularPIB: (){
+          double produto = 1.7, servico = 1.2, habitantes = 11.08;
+          return(produto + servico) / habitantes;
+        }
+      ),
+      calcularDensidadeDemografica: (double area, double populacao) => area / populacao 
+      )}'
+    );
+
+  /*
   observação:   
   fórmula PIB → (produto + serviço) / habitantes
   Paraná → produto: 1.7, serviço: 1.2 e habitantes 11.08

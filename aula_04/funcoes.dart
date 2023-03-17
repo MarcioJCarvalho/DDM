@@ -1,4 +1,6 @@
 // função nomeada
+import 'dart:io';
+
 void nomeada(){
 	print('Olá mundo');
 }
