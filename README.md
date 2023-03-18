@@ -4,7 +4,7 @@
 ##### [Diário de Aula](https://docs.google.com/spreadsheets/d/15S13zfmqAGGMFBtSC4jBQjm9qa6l00PePm_KsR_7hdc/edit#gid=0), realizado em sala de aula, semanalmente;
 ##### Avaliação em sala, realizada no final do trimestre.
 ### 1º Trimestre
-* 📆 10/02 aula 01 [Fundamentos da Linguagem DartPágina](https://github.com/MarcioJCarvalho/DDM/blob/main/aula_04/funcoes.dart) 
+* 📆 10/02 aula 01 [Fundamentos da Linguagem Dart](https://github.com/MarcioJCarvalho/DDM/blob/main/aula_04/funcoes.dart) 
 * 📆 17/02 aula 02 [Funções: definição, conceitos, sintaxe, variantes, demonstração, exemplos e exercícios.Página](https://github.com/MarcioJCarvalho/DDM/blob/main/aula_04/funcoes.dart) 
 * 📆 24/02 aula 03 [Parâmetros posicionais e nomeados, opcionais e obrigatóriosPágina](https://github.com/MarcioJCarvalho/DDM/blob/main/aula_04/funcoes.dart) 
 * 📆 03/03 aula 04 [Funções: acoplamento, coesão e legibilidade.Página](https://github.com/MarcioJCarvalho/DDM/blob/main/aula_04/funcoes.dart) 
