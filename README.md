@@ -10,8 +10,8 @@
 * 📆 03/03 aula 04 [Funções: acoplamento, coesão e legibilidade.Página](https://github.com/MarcioJCarvalho/DDM/blob/main/aula_04/funcoes.dart) 
 * 📆 10/03 aula 05 [Functions Parameters, Anonymous Functions e Arrow FunctionsPágina](https://github.com/MarcioJCarvalho/DDM/blob/main/aula_04/funcoes.dart) 
 * 📆 16/03 aula 06 [Aula prática](https://github.com/MarcioJCarvalho/DDM/tree/main/aula_06/fundamentos) 
-* 📆 23/03 aula 07 [funções em dart](https://github.com/MarcioJCarvalho/DDM/blob/main/aula_04/funcoes.dart) 
-* 📆 30/03 aula 08 [funções em dart](https://github.com/MarcioJCarvalho/DDM/blob/main/aula_04/funcoes.dart) 
+* 📆 23/03 aula 07 [Flutter Fundamentos](https://github.com/MarcioJCarvalho/DDM/tree/main/aula_07/aula_base) 
+* 📆 30/03 aula 08 [Rotas](https://github.com/MarcioJCarvalho/DDM/tree/main/aula_08/rotas) 
 * 📆 13/04 aula 09 [funções em dart](https://github.com/MarcioJCarvalho/DDM/blob/main/aula_04/funcoes.dart) 
 
 ## Sábados Letivos
