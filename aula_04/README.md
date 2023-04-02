@@ -58,9 +58,10 @@ void calcularMedia(Function f){
 ```dart
 void main(List<String> arguments){
 	calcularMedia(
-	(int nota1, int nota2){
-		return nota1 + nota2 / 2;
-    }
+		(int nota1, int nota2){
+			return nota1 + nota2 / 2;
+		}
+	);
 }
 ```
 
