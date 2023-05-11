@@ -1,5 +1,25 @@
 <h1 align="center">Desenvolvimento para Dispositivos móveis</h1>
 
+A disciplina de Desenvolvimento para Dispositivos Móveis é uma área de estudo que se concentra na criação de aplicativos e soluções para dispositivos móveis, como smartphones e tablets. Essa disciplina abrange uma variedade de tópicos e habilidades necessárias para desenvolver software para plataformas móveis.
+
+No desenvolvimento de aplicativos móveis, são utilizadas linguagens de programação específicas, como Java, Kotlin para o desenvolvimento de aplicativos Android e Swift, Objective-C para o desenvolvimento de aplicativos iOS. Além disso, também são exploradas tecnologias como HTML, CSS e JavaScript para o desenvolvimento de aplicativos híbridos, que podem ser executados em múltiplas plataformas.
+
+Os tópicos abordados na disciplina de Desenvolvimento para Dispositivos Móveis incluem:
+
+1. Arquitetura de aplicativos móveis: Os alunos aprendem a projetar e desenvolver a estrutura e a organização de um aplicativo móvel, incluindo a definição de interfaces de usuário, a lógica de negócios e a integração com serviços externos.
+
+2. Interfaces de usuário móveis: Isso envolve o projeto e a implementação de interfaces de usuário intuitivas e eficientes para dispositivos móveis, levando em consideração os tamanhos de tela limitados, as restrições de entrada e as diretrizes de design específicas das plataformas.
+
+3. Acesso a recursos do dispositivo: Os alunos aprendem a utilizar recursos específicos dos dispositivos móveis, como a câmera, o GPS, os sensores de movimento e os serviços de notificação, para enriquecer a funcionalidade dos aplicativos.
+
+4. Armazenamento de dados móveis: Isso inclui o aprendizado sobre como armazenar e gerenciar dados em dispositivos móveis, usando bancos de dados locais, armazenamento em nuvem e serviços de sincronização.
+
+5. Testes e depuração: Os alunos aprendem a realizar testes e depuração de aplicativos móveis, identificando e corrigindo erros e garantindo a qualidade do software.
+
+6. Publicação e distribuição de aplicativos: A disciplina também aborda os processos de publicação e distribuição de aplicativos móveis nas lojas de aplicativos, como o Google Play Store e a App Store da Apple, incluindo requisitos de envio, políticas de revisão e estratégias de marketing.
+
+A disciplina de Desenvolvimento para Dispositivos Móveis é fundamental para capacitar os estudantes a criar aplicativos inovadores e acompanhar a crescente demanda por soluções móveis na indústria.
+
 ## Métodos Avaliativos 
 ##### [Diário de Aula](https://docs.google.com/spreadsheets/d/15S13zfmqAGGMFBtSC4jBQjm9qa6l00PePm_KsR_7hdc/edit#gid=0), realizado em sala de aula, semanalmente;
 ##### Avaliação em sala, realizada no final do trimestre.
