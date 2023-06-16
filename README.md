@@ -144,6 +144,7 @@ Definir todos os formulários do projeto (pelo menos 5)
 
 ## Sábados Letivos
 * 📆 ~25/02~
+* 📆 17/06
 * 📆 19/08
 * 📆 30/09
 
