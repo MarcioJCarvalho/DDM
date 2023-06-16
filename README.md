@@ -1,5 +1,42 @@
 <h1 align="center">Desenvolvimento para Dispositivos móveis</h1>
 
+many to many in sqlite
+```dart
+DROP TABLE IF EXISTS assignees;
+DROP TABLE IF EXISTS lists;
+DROP TABLE IF EXISTS items;
+DROP TABLE IF EXISTS item_assignees;
+
+
+CREATE TABLE lists (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    created TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    title TEXT NOT NULL
+);
+
+CREATE TABLE items (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    list_id INTEGER NOT NULL,
+    created TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    content TEXT NOT NULL,
+    done INTEGER NOT NULL DEFAULT 0,
+    FOREIGN KEY (list_id) REFERENCES lists (id)
+);
+
+CREATE TABLE assignees (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT NOT NULL
+);
+
+CREATE TABLE item_assignees (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    item_id INTEGER,
+    assignee_id INTEGER,
+    FOREIGN KEY(item_id) REFERENCES items(id),
+    FOREIGN KEY(assignee_id) REFERENCES assignees(id)
+);
+```
+
 A disciplina de Desenvolvimento para Dispositivos Móveis é uma área de estudo que se concentra na criação de aplicativos e soluções para dispositivos móveis, como smartphones e tablets. Essa disciplina abrange uma variedade de tópicos e habilidades necessárias para desenvolver software para plataformas móveis.
 
 No desenvolvimento de aplicativos móveis, são utilizadas linguagens de programação específicas, como Java, Kotlin para o desenvolvimento de aplicativos Android e Swift, Objective-C para o desenvolvimento de aplicativos iOS. Além disso, também são exploradas tecnologias como HTML, CSS e JavaScript para o desenvolvimento de aplicativos híbridos, que podem ser executados em múltiplas plataformas.
