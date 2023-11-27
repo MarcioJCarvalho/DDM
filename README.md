@@ -142,11 +142,25 @@ Definir todos os formulários do projeto (pelo menos 5)
 - pelo menos 1 dto com associação
 - pelo menos 1 dto associativa
 
+### 3º Trimestre
+Design Patterns 
+
+[Arquitetura de Três Camadas](https://github.com/MarcioJCarvalho/DDM/)
+[Arquitetura MVVM](https://github.com/MarcioJCarvalho/DDM/)
+[Arquitetura Componentes](https://github.com/MarcioJCarvalho/DDM/)
+[Arquitetura Eventos](https://github.com/MarcioJCarvalho/DDM/)
+[Arquitetura Hexagonal](https://github.com/MarcioJCarvalho/DDM/)
+[Arquitetura Microsserviços](https://github.com/MarcioJCarvalho/microservices)
+[Arquitetura Monolitica](https://github.com/MarcioJCarvalho/DDM/)
+[Arquitetura Mvc](https://snack.expo.dev/@yamacinelli/swapi-mvc)
+[Arquitetura Servilets](https://github.com/MarcioJCarvalho/DDM/)
+[Arquitetura SOA](https://github.com/MarcioJCarvalho/DDM/)
+
 ## Sábados Letivos
 * 📆 ~25/02~
-* 📆 17/06
-* 📆 19/08
-* 📆 30/09
+* 📆 ~17/06~
+* 📆 ~19/08~
+* 📆 ~30/09~
 
 ## Contato Professor da Disciplina 
 ##### 👨‍🏫 Nome: Hélio Toshio Kamakawa
