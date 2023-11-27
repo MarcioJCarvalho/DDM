@@ -145,16 +145,16 @@ Definir todos os formulários do projeto (pelo menos 5)
 ### 3º Trimestre
 Design Patterns 
 
-[Arquitetura de Três Camadas](https://github.com/MarcioJCarvalho/DDM/)
-[Arquitetura MVVM](https://github.com/MarcioJCarvalho/DDM/)
-[Arquitetura Componentes](https://github.com/MarcioJCarvalho/DDM/)
-[Arquitetura Eventos](https://github.com/MarcioJCarvalho/DDM/)
-[Arquitetura Hexagonal](https://github.com/MarcioJCarvalho/DDM/)
+[Arquitetura de Três Camadas](https://github.com/MarcioJCarvalho/DDM/tree/main/TresCamadas)
+[Arquitetura MVVM](https://github.com/MarcioJCarvalho/DDM/tree/main/MVVM)
+[Arquitetura Componentes](https://github.com/MarcioJCarvalho/DDM/tree/main/Componentes)
+[Arquitetura Eventos](https://github.com/MarcioJCarvalho)
+[Arquitetura Hexagonal](https://github.com/MarcioJCarvalho/DDM/tree/main/Hexagonal)
 [Arquitetura Microsserviços](https://github.com/MarcioJCarvalho/microservices)
-[Arquitetura Monolitica](https://github.com/MarcioJCarvalho/DDM/)
+[Arquitetura Monolitica](https://github.com/MarcioJCarvalho/DDM/tree/main/Monolitica)
 [Arquitetura Mvc](https://snack.expo.dev/@yamacinelli/swapi-mvc)
-[Arquitetura Servilets](https://github.com/MarcioJCarvalho/DDM/)
-[Arquitetura SOA](https://github.com/MarcioJCarvalho/DDM/)
+[Arquitetura Servilets](https://github.com/MarcioJCarvalho)
+[Arquitetura SOA](https://github.com/MarcioJCarvalho/DDM/tree/main/SOA)
 
 ## Sábados Letivos
 * 📆 ~25/02~
