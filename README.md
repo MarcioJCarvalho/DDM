@@ -143,18 +143,18 @@ Definir todos os formulários do projeto (pelo menos 5)
 - pelo menos 1 dto associativa
 
 ### 3º Trimestre
-Design Patterns 
+#### Design Patterns 
 
-[Arquitetura de Três Camadas](https://github.com/MarcioJCarvalho/DDM/tree/main/TresCamadas)
-[Arquitetura MVVM](https://github.com/MarcioJCarvalho/DDM/tree/main/MVVM)
-[Arquitetura Componentes](https://github.com/MarcioJCarvalho/DDM/tree/main/Componentes)
-[Arquitetura Eventos](https://github.com/MarcioJCarvalho)
-[Arquitetura Hexagonal](https://github.com/MarcioJCarvalho/DDM/tree/main/Hexagonal)
-[Arquitetura Microsserviços](https://github.com/MarcioJCarvalho/microservices)
-[Arquitetura Monolitica](https://github.com/MarcioJCarvalho/DDM/tree/main/Monolitica)
-[Arquitetura Mvc](https://snack.expo.dev/@yamacinelli/swapi-mvc)
-[Arquitetura Servilets](https://github.com/MarcioJCarvalho)
-[Arquitetura SOA](https://github.com/MarcioJCarvalho/DDM/tree/main/SOA)
+* [Arquitetura de Três Camadas](https://github.com/MarcioJCarvalho/DDM/tree/main/TresCamadas)
+* [Arquitetura MVVM](https://github.com/MarcioJCarvalho/DDM/tree/main/MVVM)
+* [Arquitetura Componentes](https://github.com/MarcioJCarvalho/DDM/tree/main/Componentes)
+* [Arquitetura Eventos](https://github.com/MarcioJCarvalho)
+* [Arquitetura Hexagonal](https://github.com/MarcioJCarvalho/DDM/tree/main/Hexagonal)
+* [Arquitetura Microsserviços](https://github.com/MarcioJCarvalho/microservices)
+* [Arquitetura Monolitica](https://github.com/MarcioJCarvalho/DDM/tree/main/Monolitica)
+* [Arquitetura Mvc](https://snack.expo.dev/@yamacinelli/swapi-mvc)
+* [Arquitetura Servilets](https://github.com/MarcioJCarvalho)
+* [Arquitetura SOA](https://github.com/MarcioJCarvalho/DDM/tree/main/SOA)
 
 ## Sábados Letivos
 * 📆 ~25/02~
